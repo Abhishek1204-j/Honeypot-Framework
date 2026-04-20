@@ -1,7 +1,7 @@
 ````markdown
-# Do Not Fall For It: AI-Powered Honeypot System
+# AI-Powered Honeypot System
 
-**Do not fall for it** is a modular honeypot framework written in Go.  
+This framework is written in GO
 It simulates multiple network services to study attacker behavior in a controlled environment.  
 Supported protocols include SSH, HTTP, MySQL, and TCP.  
 It integrates with RabbitMQ for message handling and Prometheus for monitoring, and runs entirely through Docker.
